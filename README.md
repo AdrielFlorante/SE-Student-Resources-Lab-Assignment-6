@@ -6,5 +6,8 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 
 Your solution should not violate other SOLID principles.
 
+Make sure you have a TestProgram that will validate the proposed refactored codes.
+
 UML Diagram:
+
 ![Student Resources Factory Pattern](https://github.com/user-attachments/assets/3181308c-60a9-46e5-96fc-687e3bf5893f)
